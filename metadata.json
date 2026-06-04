@@ -1,41 +1,28 @@
 [
-    {
-        "id": "Ik2--8bOirk5UNkc_zHHwfOGYkoD2n9y",
-        "plugin": "Minimal",
-        "language": "zh-cn",
-        "version": "8.1.6",
-        "supported_versions": "8.1.6",
-        "title": "Minimal",
-        "description": "Minimal Localization & Tweaks",
-        "hash": "0b8fd72e0b8fd72e0b8fd72e0b8fd72e",
-        "created_at": "2026-06-04T16:09:49.292Z",
-        "updated_at": "2026-06-04T16:09:49.292Z",
-        "type": "theme"
-    },
-    {
-        "id": "iN8uwF1QYSeay_W4_1vozl6Xd3fU_4DJ",
-        "plugin": "obsidian-style-settings",
-        "language": "zh-cn",
-        "version": "1.0.9",
-        "supported_versions": "1.0.9",
-        "title": "Style Settings",
-        "description": "Style Settings Localization & Tweaks",
-        "hash": "290923e9290923e9290923e9290923e9",
-        "created_at": "2026-06-04T16:10:09.564Z",
-        "updated_at": "2026-06-04T16:10:09.564Z",
-        "type": "plugin"
-    },
-    {
-        "id": "8G9_gMg363ZZ7As2DV7iuwPpNfdLQ1zJ",
-        "plugin": "copilot",
-        "language": "zh-cn",
-        "version": "3.0.3",
-        "supported_versions": "3.0.3",
-        "title": "Copilot",
-        "description": "Copilot Localization & Tweaks",
-        "hash": "23a9b9e723a9b9e723a9b9e723a9b9e7",
-        "created_at": "2026-06-04T16:10:18.559Z",
-        "updated_at": "2026-06-04T16:10:18.559Z",
-        "type": "plugin"
-    }
+  {
+    "id": "iN8uwF1QYSeay_W4_1vozl6Xd3fU_4DJ",
+    "plugin": "obsidian-style-settings",
+    "language": "zh-cn",
+    "version": "1.0.9",
+    "supported_versions": "1.0.9",
+    "title": "Style Settings",
+    "description": "Style Settings Localization & Tweaks",
+    "hash": "290923e9290923e9290923e9290923e9",
+    "created_at": "2026-06-04T16:10:09.564Z",
+    "updated_at": "2026-06-04T16:10:09.564Z",
+    "type": "plugin"
+  },
+  {
+    "id": "8G9_gMg363ZZ7As2DV7iuwPpNfdLQ1zJ",
+    "plugin": "copilot",
+    "language": "zh-cn",
+    "version": "3.0.3",
+    "supported_versions": "3.0.3",
+    "title": "Copilot",
+    "description": "Copilot Localization & Tweaks",
+    "hash": "23a9b9e723a9b9e723a9b9e723a9b9e7",
+    "created_at": "2026-06-04T16:10:18.559Z",
+    "updated_at": "2026-06-04T16:10:18.559Z",
+    "type": "plugin"
+  }
 ]
