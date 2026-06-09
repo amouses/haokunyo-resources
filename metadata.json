@@ -37,5 +37,18 @@
         "created_at": "2026-06-04T16:41:56.523Z",
         "updated_at": "2026-06-04T16:45:00.296Z",
         "type": "theme"
+    },
+    {
+        "id": "Wu1w0MUc3lR4C_-kNU1PHmj-0wric206",
+        "plugin": "AnuPpuccin",
+        "language": "zh-cn",
+        "version": "1.5.0",
+        "supported_versions": "1.5.0",
+        "title": "AnuPpuccin",
+        "description": "AnuPpuccin Localization & Tweaks",
+        "hash": "1ee08f2f1ee08f2f1ee08f2f1ee08f2f",
+        "created_at": "2026-06-09T12:27:13.672Z",
+        "updated_at": "2026-06-09T12:27:13.672Z",
+        "type": "theme"
     }
 ]
